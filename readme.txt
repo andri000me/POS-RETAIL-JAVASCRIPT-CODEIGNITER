@@ -1,14 +1,4 @@
 
-WePOS - Retail v.3.42.20 (Free Version)
-
-Cocok untuk:
-Retail/Merchant/Toko, Butik, Salon (semua penjualan berbasis Retail)
-
-Terima Kasih sudah Download dan Support WePOS.id, 
-WePOS sudah dibuat sejak tahun 2015, update bertahap sesuai kebutuhan Retail 
-
-WePOS merupakan Karya anak bangsa, support Team WePOS dengan Donasi dari rekan-rekan
-
 #Cara Instalasi:
 1. Install XAMPP 5.5.24 atau 5.6.32
 2. copy-paste folder hasil download aplikasi 'wepos-retail' ke xampp/htdocs/
